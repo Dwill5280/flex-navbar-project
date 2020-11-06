@@ -1,0 +1,15 @@
+.center-item{
+    background: tan;
+    height: 100px;
+    width: 100px;
+}
+
+.center-box{
+    background: darkblue;
+    margin: 20px;
+    height: 600px;
+    width: 1400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
